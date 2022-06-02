@@ -191,11 +191,9 @@ Completed: Downloaded Texas County shapefile
 * Step 3:
 Instruction: Download Texas National Elevation Dataset. Go to -
 https://datagateway.nrcs.usda.gov/GDGorder.aspx  
-Completed: Downloaded 10M DEM data for the coastal counties of Texas (Aransas, Bee, Brookes, Jim 
-Wells, Kenedy, Kleberg, Nueces, Refugio, San Patricio). For 1M Lidar Data, a space amount to 170 GB 
-approx. is required (To be downloaded).  
+Completed: Downloaded 10M National Elevation dataset for the coastal counties of Texas (Aransas, Bee, Brookes, Jim 
+Wells, Kenedy, Kleberg, Nueces, Refugio, San Patricio).  
 For Entire Texas State (Not Downloaded Yet):  
-LiDAR Elevation Dataset - Bare Earth DEM - 1 Meter, 3470 maps. Space Required - 2016411.659 MB  
 LiDAR Elevation Dataset - Bare Earth DEM - 2 Meter, 319 maps. Space Required - 31106.479 MB  
 National Elevation Dataset 10 Meter, 4604 maps. Space Required - 33519.342 MB  
 
