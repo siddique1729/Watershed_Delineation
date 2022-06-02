@@ -2,7 +2,7 @@
 
 # Importing Libraries
 
--import numpy as np
+import numpy as np  
 -import matplotlib.pyplot as plt
 -import matplotlib.colors as colors
 -import seaborn as sns
