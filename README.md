@@ -182,7 +182,7 @@ watershed.
 * Step 1:
 Instruction: Pull out all the watersheds along the coast. Get the HUC 8 & HUC 10 data. Go to 
 https://www.twdb.texas.gov/mapping/gisdata.asp and select the 'HUC 8 Shapefile'.  
-* Completed: Downloaded watershed shapefiles for Texas state for HUC 8, 10 & 12 codes.  
+Completed: Downloaded watershed shapefiles for Texas state for HUC 8, 10 & 12 codes.  
 
 * Step 2:
 Instruction: Download Texas County shapefile. Go to - https://gistxdot.opendata.arcgis.com/datasets/TXDOT::texas-county-boundaries-line/about  
@@ -193,11 +193,11 @@ Instruction: Download Texas National Elevation Dataset. Go to -
 https://datagateway.nrcs.usda.gov/GDGorder.aspx  
 Completed: Downloaded 10M DEM data for the coastal counties of Texas (Aransas, Bee, Brookes, Jim 
 Wells, Kenedy, Kleberg, Nueces, Refugio, San Patricio). For 1M Lidar Data, a space amount to 170 GB 
-approx. is required (To be downloaded).
-For Entire Texas State (Not Downloaded Yet):
-LiDAR Elevation Dataset - Bare Earth DEM - 1 Meter, 3470 maps. Space Required - 2016411.659 MB
-LiDAR Elevation Dataset - Bare Earth DEM - 2 Meter, 319 maps. Space Required - 31106.479 MB
-National Elevation Dataset 10 Meter, 4604 maps. Space Required - 33519.342 MB
+approx. is required (To be downloaded).  
+For Entire Texas State (Not Downloaded Yet):  
+LiDAR Elevation Dataset - Bare Earth DEM - 1 Meter, 3470 maps. Space Required - 2016411.659 MB  
+LiDAR Elevation Dataset - Bare Earth DEM - 2 Meter, 319 maps. Space Required - 31106.479 MB  
+National Elevation Dataset 10 Meter, 4604 maps. Space Required - 33519.342 MB  
 
 # Sources Studied:
 * Study of Drainage Basin - https://en.wikipedia.org/wiki/Drainage_basin
