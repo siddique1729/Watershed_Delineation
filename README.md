@@ -178,17 +178,19 @@ watershed.
 * Create a dashboard that will layout the soil, land use and risk of flooding data.  
 * Use python packages like voila, bokeh; create a python server and deploy the application.  
 
-# Work Flow:
-Step 1:
+# Data Collection Work Flow:
+* Step 1:
 Instruction: Pull out all the watersheds along the coast. Get the HUC 8 & HUC 10 data. Go to 
-https://www.twdb.texas.gov/mapping/gisdata.asp and select the 'HUC 8 Shapefile'.
-Completed: Downloaded watershed shapefiles for Texas state for HUC 8, 10 & 12 codes.
-Step 2:
-Instruction: Download Texas County shapefile. Go to - https://gistxdot.opendata.arcgis.com/datasets/TXDOT::texas-county-boundaries-line/about
-Completed: Downloaded Texas County shapefile
-Step 3:
+https://www.twdb.texas.gov/mapping/gisdata.asp and select the 'HUC 8 Shapefile'.  
+* Completed: Downloaded watershed shapefiles for Texas state for HUC 8, 10 & 12 codes.  
+
+* Step 2:
+Instruction: Download Texas County shapefile. Go to - https://gistxdot.opendata.arcgis.com/datasets/TXDOT::texas-county-boundaries-line/about  
+Completed: Downloaded Texas County shapefile  
+
+* Step 3:
 Instruction: Download Texas National Elevation Dataset. Go to -
-https://datagateway.nrcs.usda.gov/GDGorder.aspx
+https://datagateway.nrcs.usda.gov/GDGorder.aspx  
 Completed: Downloaded 10M DEM data for the coastal counties of Texas (Aransas, Bee, Brookes, Jim 
 Wells, Kenedy, Kleberg, Nueces, Refugio, San Patricio). For 1M Lidar Data, a space amount to 170 GB 
 approx. is required (To be downloaded).
@@ -196,7 +198,8 @@ For Entire Texas State (Not Downloaded Yet):
 LiDAR Elevation Dataset - Bare Earth DEM - 1 Meter, 3470 maps. Space Required - 2016411.659 MB
 LiDAR Elevation Dataset - Bare Earth DEM - 2 Meter, 319 maps. Space Required - 31106.479 MB
 National Elevation Dataset 10 Meter, 4604 maps. Space Required - 33519.342 MB
-Sources Studied:
+
+# Sources Studied:
 * Study of Drainage Basin - https://en.wikipedia.org/wiki/Drainage_basin
 * Study of HUC Codes - https://digitalatlas.cose.isu.edu/hydr/huc/huctxt.htm
 * Study of watershed delinieation - https://www.wvca.us/envirothon/pdf/Watershed_Delineation_2.pdf
@@ -206,4 +209,4 @@ Sources Studied:
 * National Map Downloader - https://apps.nationalmap.gov/downloader/#/
 * Difference between lidar & digital elevation model - https://www.usgs.gov/faqs/what-differencebetween-lidar-data-and-digital-elevation-model-dem
 * Where to download lidar data - https://www.usgs.gov/faqs/what-lidar-data-and-where-can-idownload-it?qt-news_science_products=0#qt-news_science_products
-** USDA FAQ - https://datagateway.nrcs.usda.gov/GDGOrder_FAQ.html#cos
+* USDA FAQ - https://datagateway.nrcs.usda.gov/GDGOrder_FAQ.html#cos
